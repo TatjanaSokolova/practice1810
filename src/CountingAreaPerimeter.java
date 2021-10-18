@@ -5,6 +5,7 @@ public class CountingAreaPerimeter {
         Rectangle rectangle1 = new Rectangle(4,5);
         Square square1 = new Square(6);
 
+
         //Calling methods to Print the area and perimeter of a rectangle and a square.
         rectangle1.countArea();
         rectangle1.countPerimeter();
